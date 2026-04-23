@@ -1,7 +1,7 @@
 # Katelyn Bourgoin — YouTube Analysis
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=7ec3mQPwZng)
+[Watch Video](https://www.youtube.com/watch?v=V4SHt99AXqM)
 
 ## Summary
 - Focus on buyer psychology
