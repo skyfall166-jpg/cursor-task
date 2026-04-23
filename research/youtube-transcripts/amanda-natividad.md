@@ -1,7 +1,7 @@
 # Amanda Natividad — YouTube Analysis
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=kdSNhN6Wcc4)
+[Watch Video](https://www.youtube.com/watch?v=c6Qnm6LHCKg)
 
 ## Summary
 - Focus on content distribution over just creation
