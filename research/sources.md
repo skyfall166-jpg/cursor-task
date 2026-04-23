@@ -46,6 +46,6 @@
 - Why: SaaS content operator; shares practical execution strategies and content workflows.
 
 ## Justin Rowe
-- LinkedIn: https://www.linkedin.com/in/justinrowe1/
+- LinkedIn: https://www.linkedin.com/in/justin-rowe-4043339b
 - Website: https://impactable.com/
 - Why: B2B SEO and LinkedIn strategy expert; focuses on intent-driven content and pipeline growth.
