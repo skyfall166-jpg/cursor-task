@@ -83,6 +83,24 @@ Core ideas are repeated consistently to reinforce expertise and recognition.
 ### 10. Long-Term Compounding
 Content accumulates value over time, creating inbound opportunities and brand equity.
 
+## Technical Workflow
+
+Content was collected using a mix of manual and lightweight technical methods:
+
+- LinkedIn posts:
+  - Manually curated from recent posts of selected experts
+  - Filtered for high-signal, strategy-focused content
+
+- YouTube transcripts:
+  - Extracted using supadata
+  - Supplemented with manual summarization
+
+- Organization:
+  - Structured into Markdown files by expert
+  - Categorized into LinkedIn and YouTube insights
+
+This approach balances speed with accuracy, ensuring relevant and high-quality data collection.
+
 ---
 
 ## Repository Structure
