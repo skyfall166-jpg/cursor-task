@@ -1,7 +1,7 @@
 # Justin Welsh — YouTube Analysis (2)
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=7SX5JBTkwIU)
+[Watch Video](https://www.youtube.com/watch?v=Pv24uWUJ794)
 
 ## Summary
 - Highlights importance of niche positioning
