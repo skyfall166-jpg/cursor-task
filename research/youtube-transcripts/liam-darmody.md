@@ -1,24 +1,16 @@
 # Liam Darmody — YouTube Analysis
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=0jDEfShf3mc)
+[View Video](https://www.youtube.com/watch?v=9TO5JwjhCjI)
 
-## Summary
-- Focus on B2B content and LinkedIn growth
-- Emphasizes clarity and positioning
-- Highlights importance of simple messaging
+## Topic
+Building an authentic personal brand for B2B growth
 
 ## Key Insights
-- Clear messaging > complex ideas
-- Audience understanding drives engagement
-- Simplicity scales content
+- Personal branding builds trust faster than company-led content  
+- Authenticity increases engagement and credibility  
+- Thought leadership comes from consistent sharing of ideas  
+- Personal brand supports long-term content distribution  
 
-## Framework
-- Define ICP (ideal customer)
-- Create simple content
-- Focus on clarity
-- Repeat consistently
-
-## Connection to LinkedIn Strategy
-- Aligns with B2B positioning approach
-- Reinforces clarity-first content
+## Transcript
+In this video, Liam Darmody discusses the importance of building an authentic personal brand. He explains how sharing genuine insights and opinions helps build trust and authority. He also highlights that personal branding plays a critical role in B2B content strategy, especially in trust-driven buying environments.
