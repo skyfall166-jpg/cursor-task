@@ -1,7 +1,7 @@
 # Peep Laja — YouTube Analysis
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=Nld9KuKPqAE)
+[Watch Video](https://www.youtube.com/watch?v=IkyFzwD0AOY)
 
 ## Summary
 - Focus on conversion and messaging
