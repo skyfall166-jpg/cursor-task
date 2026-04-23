@@ -36,16 +36,16 @@
 - Why: Content distribution specialist; emphasizes amplification, repurposing, and reach.
 
 ## Katelyn Bourgoin
-- LinkedIn: https://www.linkedin.com/in/katelynbourgoin/
+- LinkedIn: https://ca.linkedin.com/in/katebour
 - YouTube: https://www.youtube.com/playlist?list=PLJYZJmSoMhDZXNPvsBn6f3ZeI2xDYyPwQ
 - Why: Buyer psychology expert; focuses on decision-making, messaging, and customer insights.
 
 ## Liam Darmody
 - LinkedIn: https://www.linkedin.com/in/liamdarmody/
-- YouTube: https://www.youtube.com/user/liamdarmody
+- Website:https://liamdarmody.com/ 
 - Why: SaaS content operator; shares practical execution strategies and content workflows.
 
 ## Justin Rowe
 - LinkedIn: https://www.linkedin.com/in/justinrowe1/
-- YouTube: https://impactable.com/
+- Website: https://impactable.com/
 - Why: B2B SEO and LinkedIn strategy expert; focuses on intent-driven content and pipeline growth.
