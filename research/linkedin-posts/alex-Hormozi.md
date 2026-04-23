@@ -8,7 +8,8 @@
 ---
 
 ## Post 1
-**Link:** [View Post](https://www.linkedin.com/posts/alexhormozi_my-4000000-content-strategy-for-2025-activity-7251286824633970688)
+**Link:** 
+[View Post](https://www.linkedin.com/posts/alexhormozi_my-4000000-content-strategy-for-2025-activity-7251286824633970688)
 
 **Hook:** $4,000,000 content strategy for 2025  
 **Type:** Authority  
@@ -25,7 +26,8 @@
 ---
 
 ## Post 2
-**Link:** [View Post](https://www.linkedin.com/posts/alexhormozi_this-was-my-first-post-ever-it-got-me-my-activity-7262154755152519168)
+**Link:**
+[View Post](https://www.linkedin.com/posts/alexhormozi_this-was-my-first-post-ever-it-got-me-my-activity-7262154755152519168)
 
 **Hook:** This was my first post ever  
 **Type:** Story  
@@ -42,7 +44,8 @@
 ---
 
 ## Post 3
-**Link:** [View Post](https://www.linkedin.com/posts/alexhormozi_if-you-make-content-you-like-making-youll-activity-7397310298875031552)
+**Link:**
+[View Post](https://www.linkedin.com/posts/alexhormozi_if-you-make-content-you-like-making-youll-activity-7397310298875031552)
 
 **Hook:** If you enjoy content, you'll stay consistent  
 **Type:** Insight  
