@@ -1,17 +1,13 @@
+# Justin Welsh — LinkedIn Content Analysis
 ## 👤 Creator Overview
-
 * Focus: Solopreneurship, LinkedIn growth
 * Known for: Scaling to 750K+ followers
 * Philosophy: Systems enable consistency
 
 ---
-
 ## 🔹 Post 1
 
-**Link:**
-<url>https://www.linkedin.com/posts/justinwelsh_i-grew-from-2000-to-750000-followers-using-activity-7348906814106718219
-
-
+[View Post](https://www.linkedin.com/posts/justinwelsh_i-grew-from-2000-to-750000-followers-using-activity-7348906814106718219)
 **Hook:** I grew from 2,000 to 750,000 followers
 **Type:** Authority
 
@@ -29,8 +25,7 @@
 
 ## 🔹 Post 2
 
-https://www.linkedin.com/posts/justinwelsh_you-dont-need-another-idea-youve-already-activity-7426245509599764480
-
+[View Post](https://www.linkedin.com/posts/justinwelsh_you-dont-need-another-idea-youve-already-activity-7426245509599764480)
 **Hook:** You don’t need another idea
 **Type:** Contrarian
 
@@ -48,7 +43,7 @@ https://www.linkedin.com/posts/justinwelsh_you-dont-need-another-idea-youve-alre
 
 ## 🔹 Post 3
 
-https://www.linkedin.com/posts/justinwelsh_16-steps-to-your-first-1000-online-without-activity-7419722532901257216
+[View Post](https://www.linkedin.com/posts/justinwelsh_16-steps-to-your-first-1000-online-without-activity-7419722532901257216)
 **Hook:** 16 steps to your first 1,000
 **Type:** List
 
