@@ -8,7 +8,8 @@
 ---
 
 ## Post 1
-**Link:** [View Post](https://www.linkedin.com/posts/alexhormozi_my-4000000-content-strategy-for-2025-activity-7251286824633970688)
+**Link:** [View Post](https://www.linkedin.com/posts/alexhormozi_my-4000000-content-strategy-for-2025-activity-7251286824633970688
+)
 
 **Hook:** $4,000,000 content strategy for 2025  
 **Type:** Authority  
