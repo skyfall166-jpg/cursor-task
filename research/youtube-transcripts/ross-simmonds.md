@@ -1,7 +1,7 @@
 # Ross Simmonds — YouTube Analysis
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=Z-OJiMGYL74)
+[Watch Video](https://www.youtube.com/watch?v=kdSNhN6Wcc4)
 
 ## Summary
 - “Create once, distribute forever” philosophy
