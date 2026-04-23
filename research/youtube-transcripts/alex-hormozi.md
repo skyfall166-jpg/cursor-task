@@ -1,7 +1,7 @@
 # Alex Hormozi — YouTube Analysis
 
 ## Video
-[Watch Video](https://www.youtube.com/watch?v=qvfm0zU1P2c)
+[Watch Video](https://www.youtube.com/watch?v=dMZ-n2KSlxE)
 
 ## Summary
 - Focus on monetization-driven content strategy
