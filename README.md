@@ -340,4 +340,4 @@ Own: **Hiring intelligence + Founder experience**
 ## Notes
 
 *Playbook prepared for 100Hires Junior Growth Marketing Specialist application.*  
-*Sources: Justin Welsh, Peep Laja, Dave Gerhardt, Chris Walker, Alex Hormozi, Ross Simmonds, Devin Reed, Liam Bartholomew.*
+*Sources: Justin Welsh, Peep Laja, Dave Gerhardt, Chris Walker, Alex Hormozi, Ross Simmonds, Devin Reed, Adam Robinson, Amanda Natividad, Liam Bartholomew.*
