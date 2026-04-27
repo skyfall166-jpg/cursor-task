@@ -224,3 +224,133 @@ LinkedIn rewards **early engagement velocity**
 ---
 
 ## ✍️ Sample Post
+
+Most B2B founders fail on LinkedIn for one reason:
+
+They treat it like content. Not distribution.
+
+Everyone is obsessed with writing better posts.
+
+But top creators win because:
+→ They engage before posting
+→ They reply to every comment
+→ They treat distribution as a system
+
+Content is the asset.
+Distribution is the multiplier.
+
+If you're not getting reach, fix distribution first.
+
+
+---
+
+## 📊 Metrics That Matter
+
+| Metric | Signal | Act | Kill |
+|------|-------|-----|------|
+| Save rate | Value | >3% | <1% |
+| Comments | Depth | 10+ | <3 |
+| Profile clicks | Intent | >1% | <0.5% |
+| Follower growth | Trend | +50/week | Plateau |
+
+---
+
+## 🔁 Iteration Rules
+
+- High saves → repurpose  
+- Low saves → kill format  
+- Low clicks → fix hook  
+- Growth stuck → fix distribution  
+
+---
+
+## 🏗️ Execution Plan — 100Hires
+
+### Positioning:
+**Hiring intelligence × Founder experience**
+
+---
+
+### Content themes:
+
+- Hiring mistakes  
+- Founder lessons  
+- Interview frameworks  
+- AI in hiring  
+- Mis-hires  
+
+---
+
+### Weekly plan:
+
+- 4–5 posts  
+- 1 case study  
+- Daily ICP engagement  
+- Reply to all comments  
+
+---
+
+### Content mix:
+
+- 70% value  
+- 20% personal  
+- 10% product  
+
+---
+
+## 🎯 Goal
+
+**Attention → Trust → Conversations → Revenue**
+
+---
+
+## 📅 Weekly Checklist
+
+### Daily:
+- Engage with ICP  
+- Reply to comments  
+- Capture ideas  
+
+---
+
+### Per post:
+- Strong hook  
+- Specific insight  
+- Clear CTA  
+
+---
+
+### Weekly:
+- Review metrics  
+- Repurpose 1 post  
+- Fix 1 hook  
+- Add ideas  
+
+---
+
+### Monthly:
+- Review growth  
+- Kill weak formats  
+- Test new angle  
+
+---
+
+## 📌 Final Note
+
+Prepared for:  
+**100Hires — Junior Growth Marketing Specialist Application**
+
+---
+
+## 📚 Sources
+
+Justin Welsh  
+Peep Laja  
+Dave Gerhardt  
+Chris Walker  
+Alex Hormozi  
+Ross Simmonds  
+Devin Reed  
+Liam Bartholomew  
+Adam Robinson  
+Amanda Natividad  
