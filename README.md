@@ -1,7 +1,6 @@
 # LinkedIn B2B SaaS Content Strategy — Playbook
 
 **Topic:** How top B2B SaaS operators use LinkedIn to drive awareness, build trust, and generate revenue  
-**Applied to:** 100Hires — AI Applicant Tracking System  
 **Operators Analysed:** 10  
 **Last Updated:** April 2026
 
@@ -9,7 +8,7 @@
 
 ## Objective
 
-Analyse how top B2B SaaS operators use LinkedIn content to drive awareness, build trust, and generate inbound pipeline — and translate those insights into an actionable execution system for 100Hires.
+Analyse how top B2B SaaS operators use LinkedIn content to drive awareness, build trust, and generate inbound pipeline — and translate those insights into an actionable execution system.
 
 ---
 
@@ -194,10 +193,10 @@ Hormozi's content is engineered for mass reach — broad relatability, high volu
 
 The contrast that makes this clear
 
-Peep Laja has a fraction of Hormozi's reach — but every post advances a specific, differentiated thesis on B2B positioning and messaging. Laja's audience is precisely the kind of buyer 100Hires needs to reach. Hormozi's audience is not.  
+Peep Laja has a fraction of Hormozi's reach — but every post advances a specific, differentiated thesis on B2B positioning and messaging. Laja's audience is precisely the kind of buyer to reach. Hormozi's audience is not.  
 (Source: Peep Laja, https://www.linkedin.com/in/peeplaja, ongoing)
 
-His stated goal is attention at scale. For 100Hires, the goal is trust within a specific niche. These require fundamentally different strategies
+His stated goal is attention at scale.Must be trust within a specific niche. These require fundamentally different strategies
 
 - Learn execution  
 - Ignore strategy
@@ -268,7 +267,7 @@ Impressions ≠ authority
 
 ---
 
-## Execution Plan for 100Hires
+## Execution Plan
 
 ### Positioning
 
@@ -339,5 +338,5 @@ Own: **Hiring intelligence + Founder experience**
 
 ## Notes
 
-*Playbook prepared for 100Hires Junior Growth Marketing Specialist application.*  
+*Playbook prepared for linkedin B2B SAAS content strategy.*  
 *Sources: Justin Welsh, Peep Laja, Dave Gerhardt, Chris Walker, Alex Hormozi, Ross Simmonds, Devin Reed, Adam Robinson, Amanda Natividad, Liam Bartholomew.*
